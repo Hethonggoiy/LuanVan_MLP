@@ -1,0 +1,43 @@
+# --- Microsoft Office (Word, Excel, PowerPoint) ---
+# Loại bỏ các file tạm khi đang mở Word (~$...)
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# --- Backup & System files ---
+# Loại bỏ file tạm của Windows và Mac
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- LaTeX (Nếu bạn dùng LaTeX để viết luận văn) ---
+*.aux
+*.log
+*.out
+*.toc
+*.pdfsync
+*.synctex.gz
+*.blg
+*.bbl
+*.fdb_latexmk
+*.fls
+
+# --- Python / Data Science (Nếu luận văn có phần code/mô hình) ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# --- Large Files / Data (Các file quá nặng nên để riêng) ---
+# Nếu bạn có bộ dữ liệu (dataset) nặng hàng GB, hãy bỏ qua chúng
+# Bạn nên lưu chúng trên Google Drive/OneDrive thay vì Git
+/data/
+/results/
+*.zip
+*.7z
+*.rar
+*.iso
+*.mp4
+*.avi

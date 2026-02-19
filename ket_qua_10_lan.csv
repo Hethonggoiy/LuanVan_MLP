@@ -1,0 +1,4 @@
+Model,Mean_Accuracy(%),Std
+Decision Tree,71.8,0.0096
+SVM,77.15,0.0116
+MLP,75.66,0.016

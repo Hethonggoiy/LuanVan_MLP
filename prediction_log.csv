@@ -1,0 +1,11 @@
+﻿timestamp,student_name,gender,birth_year,Toan,Van,Ly,Hoa,Sinh,Anh,pred_DT,pred_SVM,pred_MLP,final_recommendation,subject_combo
+2026-02-19 08:47:11,Minh Diep,Nam,1980,9.0,7.0,9.0,6.0,5.0,9.0,C01,A01,A01,A01,Toán – Vật lý – Tiếng Anh
+2026-02-19 08:50:08,Minh Diep,Nam,1980,9.0,9.0,5.0,6.0,5.0,9.0,D01,D01,D01,D01,Toán – Ngữ văn – Tiếng Anh
+2026-02-19 08:50:49,Minh Diep,Nam,1980,9.0,5.0,9.0,9.0,5.0,9.0,A01,A01,A01,A01,Toán – Vật lý – Tiếng Anh
+2026-02-19 08:51:02,Minh Diep,Nam,1980,9.0,5.0,9.0,9.0,5.0,5.0,B00,A01,B00,B00,Toán – Hóa học – Sinh học
+2026-02-19 11:07:23,Minh Diep,Nam,1980,9.0,6.0,9.0,9.0,6.0,6.0,B00,B00,B00,B00,Toán – Hóa học – Sinh học
+2026-02-19 17:32:35,Minh,Nam,1980,8.0,8.0,5.0,8.0,5.0,8.0,D01,Toán – Ngữ văn – Tiếng Anh
+2026-02-19 21:18:05,Minh,Nam,1999,8.0,7.0,7.0,7.0,7.0,5.0,B00,Toán – Hóa học – Sinh học
+2026-02-19 21:31:17,Minh,Nam,1981,8.0,8.0,7.0,9.0,5.0,7.0,B00,Toán – Hóa học – Sinh học
+2026-02-19 23:14:37,Minh,Nam,1980,5.0,9.0,9.0,9.0,9.0,9.0,C01,Ngữ văn – Toán – Vật lý
+2026-02-19 23:47:59,,,,6.0,6.0,4.0,4.0,4.0,5.0,15.0,14.0,16.0,17.0,D01,Toán – Ngữ văn – Tiếng Anh,99.74,0.0,0.0,0.25,99.74

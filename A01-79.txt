@@ -1,0 +1,16 @@
+--- KẾT QUẢ GỢI Ý TỐI ƯU ---
+Học sinh: MINH XX79
+KHỐI THI: A01 (84.16%)
+Tổ hợp môn: Toán, Vật lý, Tiếng Anh
+------------------------------
+Phân bổ xác suất:
+ - A01: 84.16%
+ - B00: 0.00%
+ - C01: 7.93%
+ - D01: 7.92%
+
+[LÝ GIẢI KỸ THUẬT]
+Mô hình MLP chọn A01 chủ yếu dựa trên:
+ + Năng lực nổi trội ở môn: Anh
+ + Năng lực nổi trội ở môn: Van
+

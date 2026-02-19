@@ -1,0 +1,12 @@
+--- KẾT QUẢ GỢI Ý KHỐI THI ---
+Học sinh: MINH
+Khối thi phù hợp nhất: B00
+Tổ hợp môn: Toán, Hóa học, Sinh học
+Độ tin cậy: 100.00%
+------------------------------
+Phân bổ xác suất các khối:
+ - Khối A01: 0.00%
+ - Khối B00: 100.00%
+ - Khối C01: 0.00%
+ - Khối D01: 0.00%
+
